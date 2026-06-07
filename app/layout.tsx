@@ -7,10 +7,7 @@ export const metadata: Metadata = {
   title: 'TJB Tipovačka – MS 2026',
   description: 'Tipovačka fotbalového Mistrovství světa 2026 | TJB Football Club',
   icons: {
-    icon: '/tjb-logo.png',
-    apple: '/tjb-logo.png',
-  },
-}
+    }
 
 export default function RootLayout({
   children,

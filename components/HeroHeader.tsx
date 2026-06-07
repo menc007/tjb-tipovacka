@@ -50,9 +50,8 @@ export function HeroHeader() {
             className="absolute inset-0 rounded-full blur-2xl scale-150 animate-pulse-slow"
             style={{ background: 'rgba(74,144,217,0.15)' }}
           />
-          <Image
-            src="/tjb-logo.png"
-            alt="TJB Football Club"
+          
+                      alt="TJB Football Club"
             width={140}
             height={140}
             className="relative z-10 drop-shadow-2xl hover:scale-105
